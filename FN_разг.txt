@@ -1,0 +1,963 @@
+а то, {'Literature': 2403}
+и так, {'Literature': 496}
+на место, {'News': 482}
+на улица, {'News': 418}
+все же, {'Literature': 382}
+сам себя, {'Literature': 136}
+каждый день, {'Literature': 109}
+в голова, {'Literature': 209}
+на свет, {'Literature': 150}
+в вид, {'News': 159}
+на день, {'News': 112}
+до конец, {'News': 142}
+чуть быть не, {'Literature': 129}
+на рука, {'Literature': 157}
+не мешать, {'Literature': 69}
+не то чтобы, {'Literature': 84}
+скоро все, {'Literature': 86}
+в год, {'News': 1610}
+как быть, {'Literature': 67}
+на нога, {'Literature': 120}
+дело становиться, {'News': 66}
+на голова, {'Literature': 113}
+по дорога, {'Literature': 89}
+на ухо, {'Literature': 51}
+на поп, {'Literature': 78}
+с вид, {'Literature': 50}
+можно сказать, {'Literature': 44}
+на человек, {'Literature': 40}
+на дорога, {'Literature': 118}
+в сила, {'News': 145}
+на глаз, {'Literature': 103}
+на пара, {'Literature': 51}
+закрывать глаз, {'Literature': 61}
+свой рука, {'Literature': 51}
+по крайний мера, {'Literature': 42}
+в честь, {'Literature': 40}
+к твой счастие, {'News': 48}
+на весь жизнь, {'Literature': 30}
+со сторона, {'News': 177}
+на потом, {'Literature': 46}
+кто он знать, {'Literature': 48}
+в сбор, {'News': 44}
+на ход, {'Literature': 56}
+как следовать, {'Literature': 41}
+мало то, {'Literature': 26}
+на колено, {'Literature': 83}
+не пропадать, {'Literature': 22}
+в сторона, {'Literature': 491}
+с голова, {'Literature': 50}
+на нос, {'Literature': 23}
+с дорога, {'Literature': 43}
+по себя, {'Literature': 47}
+туда сюда, {'Literature': 28}
+прежде все, {'News': 65}
+про себя, {'Literature': 79}
+дверь открывать, {'Literature': 32}
+за спина, {'Literature': 96}
+на двор, {'Literature': 48}
+на лет, {'Literature': 57}
+на память, {'Literature': 22}
+один слово, {'Literature': 31}
+с радость, {'Literature': 22}
+от род, {'Literature': 38}
+правый рука, {'Literature': 26}
+до последний, {'Literature': 29}
+на слово, {'News': 78}
+открывать глаз, {'Literature': 72}
+в нога, {'Literature': 29}
+делать нечего, {'Literature': 23}
+к слово, {'News': 37}
+по рука, {'Literature': 14}
+к пример, {'News': 58}
+в дорога, {'Literature': 52}
+на сердце, {'Literature': 16}
+свой род, {'Literature': 50}
+в сердце, {'Literature': 36}
+за решетка, {'News': 12}
+с душа, {'Literature': 12}
+на случай, {'Lit/News': 12}
+на шаг, {'Literature': 17}
+на язык, {'Literature': 15}
+от душа, {'Literature': 27}
+по суть, {'News': 24}
+что стоить, {'Literature': 18}
+взять себя в рука, {'Literature': 11}
+в большой ход, {'News': 485}
+в куст, {'Literature': 23}
+в самый раз, {'Literature': 21}
+в упор, {'Literature': 14}
+день и ночь, {'Literature': 23}
+как правило, {'News': 36}
+на ура, {'Literature': 14}
+перед глаз, {'Literature': 47}
+позволять себя, {'Literature': 28}
+с ход, {'Literature': 10}
+из последний, {'Literature': 14}
+свой брат, {'Literature': 12}
+свой глаз, {'Literature': 34}
+брать в свой рука, {'Literature': 27}
+в несколько или два три шаг, {'Literature': 12}
+в одиночка, {'Literature': 13}
+в открытый, {'News': 20}
+все на свет, {'Literature': 24}
+много много, {'Literature': 20}
+на повод, {'Literature': 12}
+на спор, {'News': 11}
+на чай, {'Literature': 9}
+не мед, {'Literature': 13}
+первый дело, {'Literature': 22}
+под рука, {'Literature': 45}
+при первый взгляд, {'Literature': 11}
+с мясо, {'Literature': 11}
+чуть ли не, {'Literature': 70}
+у дверь, {'Literature': 27}
+в пара, {'Literature': 20}
+в самый сок, {'Literature': 19}
+в страх, {'Literature': 11}
+в часть, {'News': 34}
+вчерашний день, {'Literature': 7}
+далеко пойти, {'Literature': 7}
+к добро, {'Literature': 9}
+к лицо, {'Literature': 25}
+на круг, {'Literature': 11}
+не указ, {'News': 14}
+ни с то ни с сие, {'Literature': 8}
+с улица, {'News': 38}
+что поделать, {'Literature': 12}
+такой род, {'Literature': 16}
+без толк, {'Literature': 10}
+бог посылать, {'Literature': 6}
+в зуб, {'Literature': 10}
+в расчет, {'News': 15}
+во весь рост, {'News': 54}
+и все тут, {'Literature': 12}
+как назло, {'Literature': 14}
+на бег, {'Literature': 15}
+на мель, {'Literature': 15}
+полный ход, {'News': 7}
+на слава, {'Literature': 6}
+негде повертываться, {'Literature': 7}
+номер один, {'News': 8}
+один глаз, {'Literature': 26}
+опускать рука, {'Literature': 11}
+от сила, {'Literature': 11}
+раскрывать рот, {'Literature': 19}
+подумать только, {'Literature': 6}
+со все размах, {'Literature': 14}
+с лишний, {'Literature': 19}
+с привет, {'Literature': 7}
+смотреть вон, {'Literature': 7}
+со слово, {'Literature': 27}
+что добрый, {'Literature': 7}
+что за черт, {'Literature': 8}
+под нос, {'Literature': 35}
+не в счет, {'Literature': 6}
+фу ты, {'Literature': 7}
+быть спокойный, {'Literature': 17}
+в лад, {'Literature': 44}
+в обрез, {'Literature': 6}
+в форма, {'News': 31}
+для душа, {'Literature': 5}
+до слеза, {'Literature': 13}
+к место, {'News': 56}
+каждый час, {'Literature': 5}
+как на ладонь, {'Literature': 6}
+на сторона, {'News': 24}
+набираться сила, {'Literature': 9}
+первый попадаться, {'Literature': 5}
+первый шаг, {'News': 12}
+по большой, {'Literature': 17}
+по горячий след, {'News': 21}
+по угол, {'News': 20}
+что ни попадать, {'Literature': 21}
+один единственный, {'Literature': 12}
+в один прекрасный день, {'Literature': 4}
+в придача, {'Literature': 7}
+в точка, {'Literature': 9}
+в свой род, {'Literature': 13}
+в тон, {'Literature': 24}
+в шутка, {'Literature': 14}
+в такой род, {'Literature': 5}
+да и только, {'Literature': 15}
+до пора, {'Literature': 8}
+как попадать, {'Literature': 5}
+круглый год, {'Literature': 4}
+на боковой, {'Literature': 4}
+на бумага, {'Literature': 16}
+на огонек, {'Literature': 6}
+на почва, {'News': 10}
+на радость, {'Literature': 6}
+на худой конец, {'Literature': 7}
+не под сила, {'Literature': 5}
+оглянуться не успевать, {'Literature': 4}
+один на один, {'Literature': 9}
+по слух, {'News': 7}
+по случай, {'Literature': 16}
+по часть, {'News': 31}
+под вид, {'News': 12}
+попадаться на глаз, {'Literature': 6}
+протягивать рука, {'Literature': 60}
+с небольшой, {'Literature': 33}
+с плечо, {'Literature': 17}
+с потолок, {'Literature': 4}
+свой ухо, {'Literature': 8}
+тут как тут, {'Literature': 5}
+странный дело, {'News': 110}
+в точность, {'Literature': 5}
+язык молоть, {'Literature': 4}
+наш брат, {'Literature': 6}
+не гореть, {'Literature': 4}
+без конец, {'Literature': 12}
+в корень, {'Literature': 5}
+большой радость, {'Literature': 4}
+гореть оно огонь, {'Literature': 5}
+гром среди ясный небо, {'Literature': 3}
+держать в рука, {'Literature': 30}
+до дыра, {'Literature': 5}
+до нитка, {'Literature': 5}
+живой душа нет не, {'Literature': 7}
+зима и лет, {'Literature': 4}
+знать наш, {'Literature': 6}
+нечего говорить, {'Literature': 5}
+след простыть, {'Literature': 4}
+играть роль, {'Literature': 4}
+из-под нос, {'Literature': 3}
+как ни в что не бывать, {'Literature': 12}
+как два капля вода, {'Literature': 5}
+как заводить, {'Literature': 4}
+как рука снимать, {'Literature': 5}
+как часы, {'Literature': 4}
+легкий рука, {'Literature': 4}
+ломать себя голова, {'Literature': 3}
+на возраст, {'Literature': 7}
+на каждый угол, {'Literature': 3}
+на колесо, {'Literature': 8}
+на ощуп, {'Literature': 22}
+на равный, {'News': 7}
+на уровень, {'News': 83}
+не находить место, {'Literature': 5}
+не по карман, {'Literature': 3}
+не по себей, {'Literature': 12}
+не с рука, {'Literature': 3}
+не сахар, {'Literature': 4}
+ни капля, {'Literature': 7}
+ни на минута, {'Literature': 6}
+никакой сила, {'Literature': 3}
+никой образ, {'News': 5}
+нос к нос, {'Literature': 5}
+один мах, {'Literature': 3}
+от весь сердце, {'Literature': 5}
+по свет, {'Literature': 12}
+по пята, {'Literature': 4}
+под бок, {'Literature': 3}
+под стать, {'Literature': 14}
+пожить увидеть, {'Literature': 3}
+поставлять точка, {'News': 8}
+при случай, {'Literature': 3}
+прятаться в куст, {'Literature': 6}
+рука подавать, {'Literature': 5}
+с разбег, {'Literature': 8}
+сдвигаться с место, {'Literature': 5}
+так он и надо, {'Literature': 4}
+черный пятно, {'Literature': 10}
+то ли дело, {'Literature': 3}
+то и глядеть, {'Literature': 4}
+хоть бы что, {'Literature': 3}
+что называться, {'Literature': 14}
+как отрезать, {'Literature': 3}
+ни рука, {'Literature': 12}
+стоять столб, {'Literature': 4}
+не дело, {'Literature': 9}
+ум непостижимый, {'Literature': 4}
+упасти бог, {'Literature': 3}
+без малое, {'Literature': 7}
+без надобность, {'Literature': 4}
+без оглядка, {'News': 3}
+биться об заклад, {'Literature': 3}
+бог миловать, {'Literature': 2}
+божий коровка, {'Literature': 8}
+более или менее, {'Literature': 7}
+больной место, {'Literature': 3}
+бросаться в глаз, {'Literature': 8}
+в загон, {'Literature': 2}
+в мундир, {'Literature': 3}
+в один голос, {'Literature': 4}
+в один рука, {'Literature': 17}
+в почет, {'Literature': 2}
+на смех, {'Literature': 2}
+видать вид, {'Literature': 11}
+и видимо и невидимый, {'Literature': 4}
+во весь горло, {'Literature': 7}
+воздушный поцелуй, {'Literature': 3}
+глаз да глаз нужный, {'Literature': 3}
+глаз открываться, {'Literature': 4}
+глаз разбегаться, {'Literature': 5}
+давать воля, {'Literature': 3}
+далеко заходить, {'Literature': 3}
+давать фора, {'Literature': 2}
+день за день, {'Literature': 3}
+диво даваться, {'Literature': 4}
+до зуб, {'Literature': 2}
+до отказ, {'Literature': 6}
+до последний капелька, {'Literature': 2}
+до упад, {'Literature': 3}
+добрый час, {'Literature': 2}
+душа и тело, {'Literature': 4}
+едва ль не, {'Literature': 10}
+живой место не оставлять, {'Literature': 3}
+за вычет, {'News': 2}
+крутить голова, {'Literature': 28}
+замещать след, {'News': 5}
+видеть толк, {'Literature': 4}
+быть таков, {'Literature': 4}
+и конец, {'Literature': 10}
+играть в прятки, {'Literature': 3}
+идти свой путь, {'Literature': 6}
+идти в гора, {'Literature': 3}
+из рука в рука, {'Literature': 5}
+из ряд вон, {'News': 3}
+из-за угол, {'Literature': 7}
+к слово сказать, {'Literature': 11}
+как нарочно, {'Literature': 5}
+пустой кошелек, {'Literature': 2}
+кровь из нос, {'Literature': 6}
+кусок хлеб, {'Literature': 10}
+лоб в лоб, {'News': 8}
+ловить себя на мысль, {'Literature': 10}
+мастер на весь рука, {'Literature': 4}
+между дело, {'Literature': 4}
+на взгляд, {'Literature': 17}
+на весь рука, {'Literature': 5}
+на зависть, {'Literature': 4}
+на закуска, {'Literature': 2}
+на один нога, {'Literature': 15}
+на один дыхание, {'Literature': 4}
+на отшиб, {'Literature': 3}
+на первый взгляд, {'Literature': 19}
+на полуслово, {'Literature': 7}
+на свой страх, {'News': 2}
+на стража, {'Literature': 2}
+на что свет, {'Literature': 3}
+не к добро, {'Literature': 2}
+не по нрав, {'Literature': 3}
+не покладать рука, {'Literature': 6}
+не прочь, {'Literature': 6}
+не успевать оглянуться, {'Literature': 2}
+нечистый на рука, {'News': 2}
+ни за какой деньги, {'Literature': 5}
+ни за какой коврижка, {'Literature': 2}
+ни капелька, {'Literature': 5}
+ни на что не похожий, {'Literature': 2}
+ни свет ни заря, {'Literature': 4}
+ничто не стоить, {'Literature': 2}
+ничто подобный, {'Literature': 20}
+один конец, {'Literature': 6}
+от малый до большой, {'Literature': 3}
+от печка, {'Literature': 2}
+от природа, {'Literature': 7}
+переступать за порог, {'Literature': 2}
+пункт за пункт, {'News': 6}
+по свой добрый воля, {'Literature': 2}
+под конец, {'Literature': 7}
+подымать высоко, {'Literature': 2}
+попадать под рука, {'Literature': 6}
+последний капля, {'Literature': 5}
+ставить перед факт, {'News': 2}
+раз два да и обчесться, {'Literature': 3}
+рука в рука, {'Literature': 11}
+рука не доходить, {'Literature': 4}
+с закрытый глаз, {'Literature': 6}
+с такой же успех, {'Literature': 2}
+с хвостик, {'Literature': 5}
+сбиваться с путь, {'Literature': 3}
+светлый голова, {'Literature': 2}
+свой порядок, {'Literature': 2}
+себя дорогой, {'Literature': 2}
+сквозь зуб, {'Literature': 16}
+слово за слово, {'Literature': 4}
+смертный грех, {'Literature': 2}
+собираться с мысль, {'Literature': 5}
+сплошь и рядом, {'News': 2}
+старый песня, {'Literature': 5}
+стучаться в дверь, {'Literature': 3}
+так или иначе, {'News': 16}
+там и тут, {'Literature': 3}
+тишь да гладь, {'Literature': 5}
+только держаться, {'Literature': 3}
+топтаться на место, {'Literature': 3}
+трещать по шов, {'Literature': 2}
+чем свет, {'Literature': 3}
+чем черт не шутить, {'Literature': 2}
+через голова, {'Literature': 5}
+чуть свет, {'Literature': 2}
+шаг за шаг, {'Literature': 5}
+душа не слышать, {'Literature': 6}
+не в лад, {'Literature': 2}
+темный лес, {'Literature': 3}
+на первый пора, {'Literature': 2}
+не робкий десяток, {'Literature': 2}
+в высокий степень, {'News': 2}
+язык чесать, {'Literature': 3}
+за порог, {'Literature': 7}
+ловить себя, {'Literature': 3}
+по добро по здорову, {'Literature': 2}
+не на шутка, {'Literature': 12}
+не верить глаз, {'Literature': 14}
+не выходить из ум, {'Literature': 3}
+не грех, {'Literature': 2}
+не думанно не гаданно, {'Literature': 3}
+без удерж, {'News': 1}
+без грош, {'Literature': 1}
+без дальний слово, {'Literature': 4}
+без душа, {'Literature': 7}
+без задний нога, {'Literature': 2}
+без запинка, {'Literature': 3}
+без затея, {'Literature': 2}
+без конец и край, {'Literature': 1}
+без мера, {'Literature': 3}
+без усталь, {'Literature': 8}
+белый муха, {'Literature': 2}
+разбередить душа, {'Literature': 2}
+битый час, {'Literature': 1}
+бить в глаз, {'Literature': 2}
+бить в набат, {'Literature': 1}
+звонить во весь колокол, {'News': 1}
+бить тревога, {'Lit/News': 2}
+бить через край, {'Literature': 3}
+бог обижать, {'Literature': 1}
+божий милость, {'Literature': 1}
+большой рука, {'Literature': 5}
+брать бык за рог, {'Literature': 1}
+бросать в лицо, {'Literature': 2}
+бросать якорь, {'Literature': 1}
+за один присест, {'Literature': 2}
+в голос, {'Literature': 77}
+в мешочек, {'Literature': 4}
+в новинка, {'Literature': 1}
+в оба конец, {'Literature': 1}
+в общий и целый, {'News': 1}
+в один мгновение, {'Literature': 7}
+в охотка, {'Literature': 2}
+в пика, {'News': 3}
+в подпитие, {'Literature': 1}
+в потемки, {'Literature': 1}
+в пух и в прах, {'Literature': 2}
+в разрез, {'Literature': 5}
+в унисон, {'Literature': 12}
+валить в куча, {'Lit/News': 1}
+с больной голова на здоровый, {'Literature': 1}
+сваливать с нога, {'Literature': 1}
+валиться из рука, {'Literature': 2}
+вбивать в голова, {'Literature': 1}
+вверх дно, {'Literature': 3}
+вверх нога, {'Literature': 2}
+вдоль и поперек, {'Literature': 3}
+веко вечный, {'Literature': 1}
+большой важность, {'Literature': 1}
+вернуться на грешный земля, {'Literature': 2}
+приходить в ум, {'Literature': 3}
+взваливать на плечо, {'Literature': 1}
+взять в толк, {'Literature': 4}
+видать ли это дело, {'Literature': 1}
+видеть бог, {'Literature': 3}
+виновник торжество, {'Lit/News': 1}
+повисать в воздух, {'Literature': 8}
+висеть над голова, {'Literature': 1}
+вкривь и вкось, {'Literature': 1}
+залезать в душа, {'Literature': 1}
+влетать в копеечка, {'News': 1}
+вне конкуренция, {'News': 1}
+во весь голос, {'Literature': 4}
+во весь рот, {'Literature': 1}
+во весь конец, {'Literature': 2}
+во весь прыть, {'Literature': 2}
+изо весь сила, {'Literature': 44}
+возить вода, {'Literature': 1}
+входить в раж, {'Literature': 1}
+воля случай, {'Literature': 2}
+воля судьба, {'Literature': 4}
+вольный птица, {'Literature': 1}
+свертывать гора, {'Literature': 1}
+воспрянуть дух, {'Literature': 1}
+вот поди ж ты, {'Literature': 1}
+время терпеть, {'Literature': 1}
+все до один, {'Literature': 2}
+ходить ходенем, {'Literature': 5}
+все и каждый, {'News': 1}
+вставать на крыло, {'Literature': 1}
+вставать на свой место, {'Literature': 3}
+всыпать пара горячий, {'Literature': 1}
+выбрасывать из голова, {'Literature': 3}
+выводить в человек, {'Literature': 1}
+выживать из ум, {'Literature': 3}
+выкидывать из голова, {'Literature': 3}
+вырывать с корень, {'Literature': 3}
+высматривать весь глаз, {'Literature': 1}
+где наш не пропадать, {'Literature': 1}
+где слыхать, {'Literature': 1}
+гладить по головка, {'Literature': 10}
+глаз и ухо, {'Literature': 1}
+глотать слеза, {'Literature': 1}
+гнуть свой, {'Literature': 2}
+гнуть свой линия, {'Literature': 1}
+говорить на разный язык, {'Literature': 1}
+быть голова высокий, {'Literature': 5}
+горячий голова, {'News': 2}
+горячий денек, {'Literature': 1}
+готовый сквозь земля проваливаться, {'Literature': 1}
+греть рука, {'Literature': 1}
+гриб съедать, {'Literature': 1}
+и то сказать, {'Literature': 1}
+давать воля слеза, {'Literature': 1}
+давать жар, {'Literature': 2}
+давать пинкарь, {'Literature': 3}
+девать некуда, {'Literature': 2}
+делать погода, {'Lit/News': 1}
+дело весь жизнь, {'Literature': 1}
+держать марка, {'Literature': 2}
+держать на привязь, {'News': 1}
+для очистка совесть, {'Literature': 1}
+до бесконечность, {'Literature': 5}
+до кость, {'Literature': 3}
+до крайность, {'Literature': 2}
+до последний запятая, {'News': 1}
+до пята, {'Literature': 4}
+до скончание мир, {'Lit/News': 1}
+до ужас, {'Lit/News': 1}
+дорогой цена, {'News': 1}
+душа радоваться, {'Literature': 3}
+дым коромысло, {'Literature': 1}
+если память не изменять, {'Literature': 1}
+быть глаз, {'Lit/News': 1}
+жевать жвачка, {'Literature': 1}
+желторотый птенец, {'Literature': 1}
+живой портрет, {'Literature': 1}
+жить один дом, {'Literature': 1}
+житие бытие, {'Literature': 2}
+журавль в небо, {'Literature': 1}
+за слово в карман не полезть, {'Literature': 1}
+за тридевять земля, {'Literature': 1}
+забегать вперед, {'Literature': 9}
+забивать себя мозги, {'News': 8}
+заглядывать в будущее, {'News': 2}
+заглядывать в душа, {'Literature': 1}
+заглядывать вперед, {'Literature': 1}
+задавать тон, {'Literature': 1}
+заходить в тупик, {'News': 1}
+закинуть удочка, {'Literature': 2}
+пить горький, {'Literature': 1}
+путать след, {'Literature': 1}
+заставлять себя ждать, {'Literature': 2}
+засучивать рукав, {'Lit/News': 1}
+заткнуть за пояс, {'Literature': 1}
+злой язык, {'Literature': 2}
+знать себе, {'Literature': 1}
+знать дорога, {'Literature': 4}
+золотой дно, {'Literature': 1}
+зуб на зуб не попадать, {'Literature': 1}
+конец в вода, {'News': 1}
+прощать прощай, {'Literature': 1}
+смех и горе, {'Literature': 1}
+хотеться и колоться, {'Literature': 1}
+играть глаз, {'Literature': 1}
+пойти на лад, {'Literature': 1}
+идти на повод, {'Literature': 2}
+идти на вы, {'Literature': 2}
+из год в год, {'Literature': 5}
+из конец в конец, {'Literature': 1}
+из первый рука, {'News': 2}
+из последний сила, {'Literature': 8}
+из рука вон, {'Literature': 1}
+из угол в угол, {'Literature': 7}
+из-под пол, {'Literature': 2}
+мерить глаз, {'Literature': 1}
+изо день в день, {'Lit/News': 1}
+история умалчивать, {'Literature': 1}
+точно обух по голова, {'Literature': 4}
+как бы то ни быть, {'Literature': 13}
+как в темный лес, {'Literature': 1}
+как во сон, {'Literature': 3}
+как вода смывать, {'Literature': 1}
+как игрушка, {'Literature': 3}
+как на грех, {'Literature': 1}
+как на дрожжи, {'Literature': 3}
+как на подбор, {'Literature': 5}
+как не бывать, {'Literature': 1}
+небо и земля, {'Literature': 1}
+как ни вертеть, {'Literature': 1}
+как по заказ, {'Literature': 1}
+как по команда, {'Literature': 3}
+как снежный ком, {'News': 1}
+собака на сено, {'News': 1}
+как сонный муха, {'Literature': 1}
+как угорелый, {'Literature': 4}
+какой ветер занести, {'Literature': 2}
+кататься со смех, {'Lit/News': 1}
+качать голова, {'Literature': 232}
+кипеть ключ, {'Literature': 2}
+кишмя кишеть, {'Literature': 1}
+откладывать в длинный ящик, {'Literature': 1}
+полагать жизнь, {'Literature': 2}
+клюнуть нос, {'Literature': 5}
+клещи не вытягивать, {'Literature': 1}
+конский хвост, {'Literature': 1}
+кормить завтрак, {'Literature': 1}
+короткий память, {'Literature': 1}
+край глаз, {'Literature': 11}
+край ухо, {'Literature': 1}
+красный петух, {'Literature': 1}
+крепкий орешек, {'Literature': 2}
+крепкий слово, {'Literature': 1}
+кружить голова, {'Literature': 4}
+куда ни глянуть, {'Literature': 3}
+куда ни кинуть взгляд, {'Literature': 1}
+куда попадать, {'Literature': 2}
+курица на смех, {'Literature': 1}
+легко сказать, {'Literature': 1}
+легкий на нога, {'Literature': 1}
+лежать на бок, {'Literature': 8}
+лежать на печь, {'Literature': 1}
+лежать на плечо, {'News': 1}
+лить вода, {'Literature': 3}
+лишний рот, {'Literature': 2}
+ловить каждый слово, {'Literature': 1}
+поломать зуб, {'News': 1}
+лыко шить, {'Lit/News': 1}
+маг и волшебник, {'Literature': 1}
+махнуть рука, {'Literature': 61}
+медвежий угол, {'Literature': 2}
+минутный дело, {'Literature': 1}
+морской волк, {'Literature': 5}
+мохнатый лапа, {'Literature': 1}
+мыльный пузырь, {'Lit/News': 1}
+с мизинец, {'Literature': 2}
+на босу нога, {'Literature': 4}
+на весь лад, {'Literature': 4}
+на выстрел, {'News': 3}
+на голова высоко, {'Literature': 2}
+на медный гроши, {'Literature': 2}
+на живой нитка, {'News': 1}
+на зубок, {'Literature': 2}
+на иголка, {'Literature': 1}
+на каждый шаг, {'Literature': 8}
+на карачки, {'Literature': 1}
+на корень, {'Literature': 5}
+на лоно природа, {'News': 1}
+на мазь, {'Literature': 1}
+на отлет, {'Literature': 2}
+на пай, {'News': 1}
+на равный право, {'News': 1}
+на редкость, {'Literature': 13}
+на рост, {'News': 19}
+на свежий голова, {'Literature': 1}
+на седьмой небо, {'Literature': 3}
+на скорый рука, {'Literature': 1}
+на удивление, {'Literature': 17}
+на чашка чай, {'Literature': 1}
+набивать себя цена, {'Literature': 1}
+набивать цена, {'Literature': 1}
+настораживать ухо, {'Literature': 1}
+надрывать душа, {'Literature': 1}
+дуть в ухо, {'Literature': 1}
+не жилец на белый свет, {'Literature': 1}
+не идти в голова, {'Literature': 1}
+не ко двор, {'News': 1}
+не лыко шить, {'Lit/News': 1}
+не мочь мочь быть и речь, {'Literature': 5}
+не отводить глаз, {'Literature': 3}
+не первый молодость, {'Literature': 1}
+не по вкус, {'Literature': 1}
+не показывать вид, {'Literature': 4}
+не помнить себя, {'Literature': 5}
+не приводить господи, {'Literature': 1}
+не разгибать спина, {'Literature': 1}
+не сводить глаз, {'Literature': 9}
+не свой голос, {'Literature': 1}
+не смыкать глаз, {'Literature': 5}
+не спускать глаз, {'Literature': 3}
+не тут-то быть, {'Literature': 14}
+не у дело, {'Literature': 3}
+не хватать дух, {'Literature': 1}
+не чувствовать под себя нога, {'Literature': 1}
+невесть как, {'Literature': 4}
+негде нога ступать, {'Literature': 1}
+несолоно хлебать, {'Literature': 1}
+нет и в помин, {'Literature': 2}
+нечего терять, {'News': 2}
+ни много ни мало, {'Literature': 3}
+ни грош, {'Literature': 1}
+ни давать ни взять, {'Literature': 2}
+ни живой ни мертвый, {'Literature': 1}
+ни крошка, {'Literature': 2}
+ни на грош, {'Literature': 2}
+ни один живой душа, {'Literature': 4}
+ни ответ ни привет, {'Literature': 1}
+ни под какой вид, {'News': 1}
+ни с место, {'Literature': 2}
+нога не быть, {'Literature': 1}
+нож в сердце, {'Literature': 2}
+носить на рука, {'Literature': 4}
+обвести вокруг палец, {'News': 1}
+обливаться слеза, {'Lit/News': 1}
+огород городить, {'Literature': 1}
+окунаться с голова, {'Literature': 1}
+осиный гнездо, {'Literature': 2}
+оставлять желать хороший, {'Lit/News': 2}
+острый язык, {'Literature': 3}
+от а до я, {'News': 1}
+с большой ум, {'Literature': 1}
+от заря до заря, {'Literature': 2}
+от корка до корка, {'Literature': 1}
+от нечего делать, {'Literature': 2}
+от случай к случай, {'Literature': 1}
+отбиваться от рука, {'Literature': 1}
+отводить глаз, {'Literature': 16}
+отводить душа, {'Literature': 1}
+отвечать голова, {'Literature': 1}
+доживать свой день, {'Literature': 4}
+открывать америка, {'Literature': 2}
+откуда ни взяться, {'Literature': 6}
+откуда что взяться, {'Literature': 1}
+отлегать от сердце, {'Literature': 2}
+отчаянный голова, {'Literature': 1}
+очертя голова, {'Literature': 1}
+падать на колено, {'Literature': 1}
+первый ласточка, {'News': 1}
+первый скрипка, {'Literature': 4}
+первый рука, {'News': 2}
+первый сорт, {'Literature': 2}
+первый долг, {'Literature': 1}
+перебегать дорога, {'News': 3}
+перебирать в ум, {'Literature': 1}
+перевертываться вверх дно, {'Literature': 1}
+переводить дыхание, {'Literature': 14}
+перемывать косточка, {'Literature': 2}
+песня спеть, {'Lit/News': 1}
+пир на весь мир, {'Literature': 1}
+плечо в плечо, {'Literature': 6}
+плыть в рука, {'Literature': 1}
+плыть по течение, {'Literature': 4}
+плыть против течение, {'Literature': 1}
+по большой счет, {'Literature': 6}
+по милость, {'Literature': 1}
+по молодость год, {'Literature': 1}
+по плечо, {'Literature': 35}
+по правый рука, {'Literature': 1}
+по прямой, {'Literature': 8}
+по сей день, {'Literature': 5}
+под диктовка, {'Lit/News': 2}
+под занавес, {'News': 2}
+под лад, {'Literature': 3}
+под марка, {'News': 2}
+под муха, {'Literature': 1}
+под мышка, {'Literature': 6}
+под сапог, {'Literature': 2}
+под спуд, {'Literature': 1}
+под турах, {'News': 3}
+подавать голос, {'Literature': 16}
+подготавливать почва, {'Literature': 3}
+подымать голова, {'Literature': 85}
+подымать на нога, {'Literature': 2}
+подниматься с постель, {'Literature': 2}
+подходить к конец, {'Literature': 15}
+подставлять нога, {'Literature': 1}
+подступать к горло, {'Literature': 4}
+указывать на дверь, {'Literature': 2}
+показывать класс, {'News': 1}
+показывать носить, {'Literature': 1}
+полож рука на сердце, {'News': 1}
+попадать в история, {'News': 1}
+попадать в самый точка, {'Literature': 1}
+попадать впросак, {'Literature': 3}
+попадать на зубок, {'Literature': 1}
+попадаться на удочка, {'Literature': 1}
+ставить в ряд, {'Literature': 1}
+ставить в тупик, {'Literature': 2}
+поставлять на кон, {'News': 3}
+потирать рука, {'Literature': 6}
+прежде время, {'Literature': 1}
+приклонять голова, {'Literature': 25}
+принимать на вера, {'Literature': 2}
+пробежать глаз, {'Lit/News': 1}
+пропускать мимо ухо, {'Literature': 1}
+протирать глазок, {'Literature': 3}
+прятать глаз, {'Literature': 2}
+пустой звук, {'Literature': 1}
+пыль столб, {'Literature': 1}
+пятый десятый, {'Literature': 1}
+радовать глаз, {'Literature': 10}
+раз за раз, {'Literature': 7}
+разводить рука, {'Literature': 26}
+развязывать язык, {'Literature': 1}
+разгонять кровь, {'Literature': 1}
+разевать рот, {'Literature': 4}
+разжимать губа, {'Literature': 1}
+раскладывать по полочка, {'Literature': 1}
+разный разность, {'Literature': 1}
+распушать хвост, {'Literature': 1}
+родственный душа, {'Literature': 3}
+рука набивать, {'Literature': 1}
+рука короткий, {'Literature': 1}
+рука опускаться, {'Literature': 3}
+рыть яма, {'Literature': 3}
+рыться в память, {'Literature': 2}
+с вызов, {'Literature': 5}
+с голова до самый нога, {'Literature': 8}
+с горе пополам, {'Lit/News': 1}
+с грех пополам, {'Literature': 1}
+с иголочка, {'Literature': 5}
+с лишек, {'Literature': 2}
+с легкий пар, {'News': 1}
+с легкий рука, {'Literature': 3}
+с лихва, {'Literature': 3}
+с налет, {'Lit/News': 1}
+с оглядка, {'News': 4}
+с огонек, {'Literature': 1}
+от пеленка, {'Literature': 4}
+с первый слово, {'Literature': 2}
+с плечо долой, {'Literature': 1}
+с позволение сказать, {'Lit/News': 1}
+с толк, {'Literature': 8}
+с чистый сердце, {'Literature': 2}
+с чужой слово, {'Literature': 1}
+садиться на мель, {'News': 5}
+сбивать с нога, {'News': 3}
+сбрасывать с плечо, {'Literature': 2}
+сваливаться на голова, {'Literature': 1}
+сверкать глаз, {'Literature': 5}
+свертывать шея, {'Literature': 2}
+сверху донизу, {'Lit/News': 1}
+сводить конец с конец, {'Literature': 1}
+сводиться на нет, {'News': 2}
+свет белый не видеть, {'News': 1}
+свой черед, {'Literature': 8}
+сгорать от стыд, {'Literature': 1}
+сдавать позиция, {'Literature': 2}
+сдвигаться с мертвый точка, {'Literature': 1}
+сдвигать воз с место, {'Lit/News': 1}
+сердце екнуть, {'Literature': 2}
+сиамский близнец, {'News': 1}
+сидень сидеть, {'Literature': 3}
+синий мундир, {'Literature': 1}
+сквозь слеза, {'Literature': 5}
+слагать рука, {'Literature': 8}
+скрепить сердце, {'Lit/News': 1}
+скрипеть зуб, {'Literature': 5}
+слабый место, {'News': 1}
+сломя голова, {'Literature': 2}
+слюнки течь, {'Literature': 1}
+смотреть свысока, {'Literature': 1}
+со весь нога, {'Literature': 20}
+со скрип, {'Literature': 11}
+собираться с дух, {'Literature': 3}
+сходить с рука, {'Literature': 2}
+всплескивать рука, {'Literature': 50}
+средний рука, {'Literature': 1}
+старый и маленький, {'Literature': 1}
+старый и младой, {'Literature': 2}
+стискивать зуб, {'Literature': 2}
+стон стоять, {'Literature': 1}
+стоять на сторона, {'News': 1}
+стрелять глаз, {'Literature': 1}
+хватать за рукав, {'Literature': 2}
+хвататься за волос, {'Literature': 9}
+считать звезда, {'Literature': 1}
+паче то, {'Literature': 8}
+тихо вода низкий трава, {'Literature': 2}
+ткнуть нос, {'Literature': 2}
+тот и дело, {'Literature': 25}
+то там то тут, {'Literature': 1}
+только и видеть, {'Literature': 1}
+тришкин кафтан, {'Literature': 1}
+тугой на ухо, {'Literature': 1}
+тьма то, {'Literature': 1}
+тянуть душа, {'Literature': 1}
+хватить дух, {'Literature': 3}
+хватить горячий, {'Literature': 1}
+хвост труба, {'Literature': 1}
+хлеб не кормить, {'Literature': 1}
+хлопать глаз, {'Literature': 3}
+хлопать ухо, {'Literature': 1}
+ходить на цыпочки, {'Lit/News': 1}
+ходить хвост, {'Literature': 1}
+холостой выстрел, {'News': 1}
+хоть ухо затыкать, {'Literature': 1}
+цепляться за жизнь, {'Literature': 1}
+что только нет, {'Literature': 3}
+через край, {'Literature': 10}
+через сила, {'Literature': 4}
+в час по чайный ложка, {'Literature': 1}
+черт нести, {'Literature': 2}
+что ни шаг, {'Literature': 1}
+что бог давать, {'Literature': 1}
+что быть сила, {'Literature': 20}
+что душа угодно, {'Literature': 1}
+что быть дух, {'Literature': 1}
+что ни говорить, {'Literature': 1}
+что правда то правда, {'Literature': 1}
+шапочный знакомый, {'Literature': 1}
+шутка ли, {'Literature': 1}
+язык чесаться, {'Literature': 1}
+бельмо на глаз, {'Literature': 1}
+оставлять без внимание, {'Lit/News': 2}
+волк смотреть, {'Literature': 1}
+все как один, {'Literature': 3}
+свивать себя гнездо, {'Literature': 1}
+быть грех, {'Literature': 1}
+добрый малый, {'Literature': 1}
+не долго думать, {'Literature': 6}
+ни живой душа, {'Literature': 4}
+себя не забывать, {'Literature': 1}
+стоять истукан, {'Literature': 1}
+на свой лад, {'Literature': 2}
+лошадиный доза, {'Literature': 1}
+другой музыка, {'News': 1}
+надувать губа, {'Literature': 1}
+до невозможность, {'Literature': 7}
+бояться как огонь, {'Literature': 2}
+сгибаться в три погибель, {'Literature': 1}
+с какой пора, {'Literature': 1}
+не пошевельнуться, {'Literature': 1}
+быть в претензия, {'Literature': 1}
+для пример, {'News': 3}
+дышать свободно, {'Literature': 3}
+прятаться за спина, {'Literature': 3}
+до точка, {'News': 1}
+тяжелый голова, {'Literature': 1}
+тяп да ляп, {'Literature': 1}
+чудо как, {'Literature': 9}
+шутка шутка, {'Literature': 1}
+за юбка держаться, {'Literature': 1}
+в квадрат, {'Lit/News': 2}
+давать сдача, {'Literature': 3}
+держаться на честный слово, {'News': 1}
+заливать горе, {'Literature': 1}
+книга в рука, {'Literature': 3}
+лакомый кусок, {'Literature': 2}
+мало помалу, {'Literature': 4}
+мотать на ус, {'Literature': 1}
+приказывать долго жить, {'Literature': 3}
+с наскок, {'Literature': 1}
+теплый местечко, {'Literature': 4}
+шуметь в голова, {'Literature': 1}
+наставлять рог, {'Literature': 1}
+наступать на любить мозоль, {'Literature': 1}
+находить коса на камень, {'News': 1}
+нащупывать почва, {'Literature': 2}
+не ахти какой, {'Literature': 2}
+не брать в рот, {'Literature': 1}
+не в бровь а прямо в глаз, {'Literature': 1}
+не в мера, {'Literature': 1}
+не в пример, {'News': 2}
+не в радость, {'Literature': 1}
+не в свой тарелка, {'Literature': 1}
+не в честь, {'Literature': 2}
+не взвидеть свет, {'Literature': 1}
+не выдерживать никакой критика, {'News': 3}
+не до смех, {'Literature': 3}
+умываться потом, {'Literature': 4}
+уносить нога, {'Literature': 2}
+утыкаться нос, {'Literature': 3}
+ученый муж, {'Literature': 1}
+бегать глаз, {'Literature': 2}
